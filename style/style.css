@@ -116,6 +116,30 @@ align-items: center;
   font-weight: 500;
 }
 
+
+/* features section related styles */
+
+.features{
+  gap: 140px;
+ 
+}
+#feature-section-title{
+  border-left: 5px solid chocolate;
+  padding-left: 20px;
+}
+.feature-card{
+  
+  border-radius: 8px;
+  padding: 30px;
+  box-shadow: 0 4px 30px rgba(0,0,0,0.06);
+  margin-bottom: 20px;
+
+}
+.feature-card .feature-title{
+  font-weight: 600;
+  font-size: 1.25rem;
+
+}
 /* some fact design */
 
 .facts-container{
